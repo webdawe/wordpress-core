@@ -1,0 +1,3 @@
+# wordpress-core
+Wordpress Core
+
