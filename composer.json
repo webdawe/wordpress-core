@@ -1,0 +1,20 @@
+{
+    "type"   : "package",
+    "package": {
+        "name"   : "webdawe/wordpress",
+        "type"   : "wordpress-core",
+        "version": "4.5.3",
+        "dist"   : {
+            "url" : "http://wordpress.org/wordpress-4.5.3.zip",
+            "type": "zip"
+        },
+        "source" : {
+            "url"  : "https://github.com/WordPress/WordPress",
+            "type" : "git",
+            "reference": "4.5.3"
+        },
+        "require": {
+            "johnpbloch/wordpress-core-installer": "~0.1"
+        }
+    }
+}
