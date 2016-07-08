@@ -3,7 +3,6 @@
     "type":"wordpress",
     "homepage":"https://github.com/webdawe/wordpress-core",
     "description":"WordPress Core Install",
-    "minimum-stability":"stable",
     "authors":[
         {
             "name":"Anil Paul",
