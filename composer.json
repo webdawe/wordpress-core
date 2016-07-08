@@ -1,5 +1,17 @@
 {
-    "type"   : "package",
+    "name":"webdawe/wordpress-core",
+    "type":"wordpress",
+    "license":"OSL-3.0",
+    "homepage":"https://github.com/webdawe/wordpress-core",
+    "description":"WordPress Core Install",
+    "minimum-stability":"stable",
+    "authors":[
+        {
+            "name":"Anil Paul",
+            "email":"webdeveloper363@gmail.com"
+        }
+    ],
+	,
     "package": {
         "name"   : "webdawe/wordpress",
         "type"   : "wordpress-core",
